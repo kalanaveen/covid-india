@@ -2,7 +2,7 @@ import {createApi,fetchBaseQuery} from '@reduxjs/toolkit/query/react';
 
 const covidNewsHeaders = {
     'x-rapidapi-host': 'covid-19-news.p.rapidapi.com',
-    'x-rapidapi-key': 'UogVWI5hRimshntTCs93EGVJEZiup1jtXgGjsnaUsU08pcCQGR'
+    'x-rapidapi-key': ''
 }
 
 const baseUrl = "https://covid-19-news.p.rapidapi.com/v1/covid?q=covid&lang=en&country=in&media=true&sort_by=date";
