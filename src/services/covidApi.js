@@ -2,7 +2,7 @@ import {createApi,fetchBaseQuery} from '@reduxjs/toolkit/query/react';
 
 const covidApiHeaders = {
     'x-rapidapi-host': 'covid-19-v1.p.rapidapi.com',
-    'x-rapidapi-key': 'UogVWI5hRimshntTCs93EGVJEZiup1jtXgGjsnaUsU08pcCQGR'
+    'x-rapidapi-key': ''
 }
 
 const baseUrl = "https://covid-19-v1.p.rapidapi.com";
