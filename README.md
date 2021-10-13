@@ -1,3 +1,41 @@
+Build Covid india application with modern technologies likes reactjs,redux-toolkit,ant design,chartjs,rapid api.
+In this we fetching data from rapid api,multiple api used for getting covid data and news.
+State wise and district wise data fetched from api.
+
+home page 
+
+![image](https://user-images.githubusercontent.com/34640475/137083141-6b609b72-79fa-4575-b251-45066ae569bb.png)
+
+state district page
+
+![image](https://user-images.githubusercontent.com/34640475/137083267-31e67e67-e640-4f45-ae35-1b891848113d.png)
+
+district page
+
+![image](https://user-images.githubusercontent.com/34640475/137083340-97e2de1c-71ad-46f9-a7ca-da611e117979.png)
+
+news page
+
+![image](https://user-images.githubusercontent.com/34640475/137083460-f856073a-d1dd-42d3-923c-25e70cfed35a.png)
+
+
+Key Features
+    
+    Latest covid cases of india.
+    State wise data show.
+    District wise data show.
+    Sees data with help of chartjs.
+    Rapid api used for all data.
+    Super responsive.
+    
+Key Technologies
+
+    React.js
+    Redux Toolkit
+    Ant Design
+    Chart js
+    Rapid APi
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
